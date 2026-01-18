@@ -79,11 +79,10 @@ public class SoftwareEngineer {
 
 ## 🎯 Current Focus
 
-- 🔨 Building scalable microservices with **Spring Boot & FastAPI**
+- 🏗️ Working on **YETEN** Government project for Defence Industry Agency
+- 🔨 Building scalable modules with **Python & Flask**
 - ☁️ Deploying and scaling applications on **AWS & GCP**
-- 🧠 Working with **ML pipelines** and **data engineering workflows**
-- 🏗️ Mastering **system design** and **distributed architecture patterns**
-- 🤝 Open to collaborating on **backend** and **data engineering** projects
+- 🧠 Working with **React.js, Ant Desing and Amcharts** for frontend development
 
 
 

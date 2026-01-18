@@ -76,3 +76,15 @@ public class SoftwareEngineer {
 
 
 
+
+## 🎯 Current Focus
+
+- 🔨 Building scalable microservices with **Spring Boot & FastAPI**
+- ☁️ Deploying and scaling applications on **AWS & GCP**
+- 🧠 Working with **ML pipelines** and **data engineering workflows**
+- 🏗️ Mastering **system design** and **distributed architecture patterns**
+- 🤝 Open to collaborating on **backend** and **data engineering** projects
+
+
+
+

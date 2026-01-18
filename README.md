@@ -28,15 +28,16 @@ public class SoftwareEngineer {
     private String[] focusAreas = {
         "Backend Development",
         "API Design",
-        "System Architecture",
-        "Microservices"
+        "Frontend Development",
+        "Data Reporting"
     };
 
     private String[] techStack = {
+        
+        "Python", "Flask",
+        "React.js", "AntDesign", "Amcharts",
         "Java", "Spring Boot",
-        "Python", "FastAPI", "Flask",
-        "PostgreSQL", "MySQL", "MongoDB", "Redis",
-        "Docker", "AWS",
+        "PostgreSQL","Redis",
         "Git", "REST APIs"
     };
 

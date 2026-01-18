@@ -52,17 +52,18 @@ public class SoftwareEngineer {
 ## 🛠️ Tech Stack
 
 ### Backend & Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+
 
 ---
 
 ### Frontend & Frameworks
-![React.js](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![AntDesign](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Amcharts](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![React.js]()
+![AntDesign]()
+![Amcharts])
 
 ---
 

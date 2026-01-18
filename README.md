@@ -19,9 +19,9 @@
 
 ---
 
-```java
+
 public class SoftwareEngineer {
- ...
+
     private String name = "Ad Soyad";
     private String role = "Backend Engineer";
 

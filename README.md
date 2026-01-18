@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/ID" width="160" style="border-radius:50%" />
 </div>
 
-<h1 align="center">AKadir Koç</h1>
+<h1 align="center">Kadir Koç</h1>
 <p align="center">Software Engineer | FullStack Developer</p>
 
 <p align="center">

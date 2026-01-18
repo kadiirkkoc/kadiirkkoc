@@ -2,17 +2,17 @@
   <img src="https://avatars.githubusercontent.com/u/ID" width="160" style="border-radius:50%" />
 </div>
 
-<h1 align="center">Ad Soyad</h1>
-<p align="center">Software Engineer | Backend Developer</p>
+<h1 align="center">AKadir Koç</h1>
+<p align="center">Software Engineer | FullStack Developer</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/kadir-ko%C3%A7-63a0a1257/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:email@example.com">
+  <a href="mailto:kadiirkkoc@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://github.com/USERNAME">
+  <a href="https://github.com/kadiirkkoc">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
 </p>

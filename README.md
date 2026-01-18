@@ -21,7 +21,7 @@
 
 ```java
 public class SoftwareEngineer {
-
+ ...
     private String name = "Ad Soyad";
     private String role = "Backend Engineer";
 
@@ -47,10 +47,6 @@ public class SoftwareEngineer {
         return true;
     }
 }
-
-```md
-
-
 
 
 ## 🛠️ Tech Stack

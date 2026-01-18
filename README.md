@@ -86,51 +86,44 @@ public class SoftwareEngineer {
 
 
 
+## 🎓 Education
 
-🎓 Education
+**Bachelor of Science in Computer Engineering**  
+Eskisehir Technical University  
+📍 Eskisehir, Turkey  
+📅 09/2019 – 06/2024  
 
-Bachelor of Science in Computer Engineering
-Eskisehir Technical University
-📍 Eskisehir, Turkey
-📅 09/2019 – 06/2024
+**Bachelor Degree in Computer Engineering (Erasmus)**  
+Pardubice University  
+📍 Pardubice, Czech Republic  
+📅 01/2023 – 07/2023  
 
-Bachelor Degree in Computer Engineering (Erasmus)
-Pardubice University
-📍 Pardubice, Czech Republic
-📅 01/2023 – 07/2023
+---
 
-💼 Professional Experience
-Defense Industry Presidency (SSB) – Sarente Bilgi Teknolojileri
+## 💼 Professional Experience
 
-Full Stack Developer
-📍 Ankara, Turkey
-📅 07/2024 – Present
+### Defense Industry Presidency (SSB) – Sarente Bilgi Teknolojileri  
+**Full Stack Developer**  
+📍 Ankara, Turkey  
+📅 07/2024 – Present  
 
-Working onsite in Ankara on a government project for the Defence Industry Agency
+- Working onsite in Ankara on a **government project** for the Defence Industry Agency  
+- Actively developing the **YETEN** project  
+- Designing **scalable backend services** and **frontend modules**  
+- Technologies: **Python, Flask, React.js, Ant Design**
 
-Actively developing the YETEN project
+---
 
-Technologies: Python, Flask, React.js, Ant Design
+### Archi's Academy  
+**Software Developer Intern**  
+📍 Eskisehir, Turkey  
+📅 07/2023 – 11/2023  
 
-Designing scalable backend services and frontend modules
-
-Archi's Academy
-
-Software Developer Intern
-📍 Eskisehir, Turkey
-📅 07/2023 – 11/2023
-
-Implemented security features (JWT, Keycloak)
-
-Integrated payment systems (Stripe, Razorpay)
-
-OpenAI API integrations
-
-Backend & frontend enhancements using:
-
-Java, Spring Boot
-
-React.js
-
-PostgreSQL
+- Implemented **security features** (JWT, Keycloak)  
+- Integrated **payment systems** (Stripe, Razorpay)  
+- Worked with **OpenAI API integrations**  
+- Backend & frontend enhancements using:
+  - **Java, Spring Boot**
+  - **React.js**
+  - **PostgreSQL**
 

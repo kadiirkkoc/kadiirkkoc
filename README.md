@@ -20,8 +20,8 @@
 ```java
 public class SoftwareEngineer {
 
-    private String name = "Ad Soyad";
-    private String role = "Backend Engineer";
+    private String name = "Kadir Koç";
+    private String role = "FullStack Developer";
 
     private String[] focusAreas = {
         "Backend Development",

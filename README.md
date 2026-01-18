@@ -20,6 +20,7 @@
 ---
 
 
+```java
 public class SoftwareEngineer {
 
     private String name = "Ad Soyad";
@@ -33,11 +34,10 @@ public class SoftwareEngineer {
     };
 
     private String[] techStack = {
-        
         "Python", "Flask",
-        "React.js", "AntDesign", "Amcharts",
+        "React.js", "Ant Design", "amCharts",
         "Java", "Spring Boot",
-        "PostgreSQL","Redis",
+        "PostgreSQL", "Redis",
         "Git", "REST APIs"
     };
 

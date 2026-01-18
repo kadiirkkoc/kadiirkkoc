@@ -61,9 +61,9 @@ public class SoftwareEngineer {
 ---
 
 ### Frontend & Frameworks
-![React.js]()
-![AntDesign]()
-![Amcharts])
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![amCharts](https://img.shields.io/badge/amCharts-EF6C00?style=for-the-badge))
 
 ---
 

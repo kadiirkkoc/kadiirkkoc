@@ -1,3 +1,12 @@
+
+⬆️ **Bu tek satır her şeyi çözüyor**
+
+---
+
+## ✅ TAM DÜZELTİLMİŞ ÇALIŞAN HALİ  
+👉 **Aşağıyı komple kopyala – eskisini sil – bunu yapıştır**
+
+```md
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/ID" width="160" style="border-radius:50%" />
 </div>

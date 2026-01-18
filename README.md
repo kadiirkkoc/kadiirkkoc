@@ -3,13 +3,13 @@
 <p align="center">Software Engineer | FullStack Developer</p>
 
 <p align="center">
-  <a target="blank" href="https://www.linkedin.com/in/kadir-ko%C3%A7-63a0a1257/">
+  <a target="_blank" href="https://www.linkedin.com/in/kadir-ko%C3%A7-63a0a1257/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:kadiirkkoc@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://github.com/kadiirkkoc">
+  <a target="_blank" href="https://github.com/kadiirkkoc">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
 </p>

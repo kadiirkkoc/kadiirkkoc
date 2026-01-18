@@ -19,77 +19,31 @@
 
 ---
 
-## 👋 About Me
-
-
+```java
 public class SoftwareEngineer {
 
     private String name = "Ad Soyad";
     private String role = "Backend Engineer";
 
-    private String[] specialization = {
+    private String[] focusAreas = {
         "Backend Development",
         "API Design",
         "System Architecture",
         "Microservices"
     };
 
-    private String currentFocus =
-        "Building scalable and maintainable backend systems";
+    private String[] techStack = {
+        "Java", "Spring Boot",
+        "Python", "FastAPI", "Flask",
+        "PostgreSQL", "MySQL", "MongoDB", "Redis",
+        "Docker", "AWS",
+        "Git", "REST APIs"
+    };
 
-    public String[] getTechStack() {
-        return new String[] {
-            "Java", "Spring Boot",
-            "Python", "FastAPI",
-            "PostgreSQL", "Docker",
-            "RESTful APIs"
-        };
-    }
+    private String mindset =
+        "Clean code, scalable systems, continuous learning";
 
-    public boolean availableForCollaboration() {
+    public boolean openToWork() {
         return true;
     }
 }
-
-
-Tech Stack
-Backend & Frameworks
-
-
-
-
-
-
-
-
-
-
-Databases
-
-
-
-
-
-
-
-
-
-
-DevOps & Cloud
-
-GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" /> </p>
-
-
-
-
-
-Highlights
-
-🔹 Backend-focused software engineer
-
-🔹 Clean architecture & scalable systems
-
-🔹 RESTful API & microservice design
-
-🔹 Always learning and improving
